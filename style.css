@@ -1,0 +1,70 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	}
+
+li{
+	float: right;
+		}
+
+a{
+	display: block;
+	width: 60px;
+	float: right;
+	}
+	
+
+#doodle {
+display: block;
+margin-top: 150px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#search{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 300px;
+
+}
+
+#topnav {
+	position: fixed;
+	top: 0;
+	right: 0;
+	}
+	
+#bottomnav {
+	position: fixed;
+	bottom: 0;
+	background-color: gray;
+	width: 100%
+	
+	}
+	
+#bottomnav #left {
+	float: left;
+	}
+	
+#bottomnav #right {
+	float: right;
+	}
+
+.blah {
+	display: inline-block;
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 550px;
+	margin-top: 50px
+	
+	}
+.blah1 {
+	display: inline-block;
+	text-align: center;
+	margin-right: 0px;
+	margin-left: 0;
+	margin-top: 50px
+	}
